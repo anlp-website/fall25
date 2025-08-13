@@ -14,6 +14,7 @@ We have 4 big assignments in total (subject to change). Visit this course's Grad
 - [20%] HW3: Week 5 to Week 6 topics
 - [20%] HW4: Week 7 to Week 11 topics
 - [15%] HW5: Week 12 to Week 13 topics
+
 We do not release solutions for homework. Some of our assignments will have bonus points and bonus points are weighted the same as the 'regular' assignments points. 
 
 **Extra Credit/Bonus Points**: For some assignments we will have extra credit/bonus opportunities. Extra credit/bonus points are treated the same as the corresponding regular assignments points. For example, HW1 is worth 20% of the final grade, if it has 90 regular points plus an additional 9 bonus points, earning all 99 points would give you a score of 110% (99/90). Since HW1 contributes 20% to your final grade, achieving 110% on it would result in an additional 2% boost to your overall final grade. 
