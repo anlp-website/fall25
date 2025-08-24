@@ -138,3 +138,13 @@
 [0813/113309.819:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation buildno:Dropbox-win-229.4.5197
 [0813/113309.819:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation platform:win
 [0813/113309.819:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation platform_version:11 26100
+[0814/191519.613:INFO:crashpad_lib_loader.cc(80)] Crashpad lib path: C:\Program Files (x86)\Dropbox\Client\230.4.8797\dropbox_crashpad.dll
+[0814/191519.614:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation electron_version:19.1.9-dropbox.20240827.b5a386072b.c820295eed39.0
+[0814/191519.614:ERROR:crashpad_lib_loader.cc(169)] No crashpad annotations provided
+[0814/191719.610:INFO:crashpad_lib_loader.cc(80)] Crashpad lib path: C:\Program Files (x86)\Dropbox\Client\230.4.8797\dropbox_crashpad.dll
+[0814/191719.610:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation electron_version:19.1.9-dropbox.20240827.b5a386072b.c820295eed39.0
+[0814/191719.610:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation product_name:desktop_client
+[0814/191719.610:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation buildid:main
+[0814/191719.610:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation buildno:Dropbox-win-230.4.8797
+[0814/191719.610:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation platform:win
+[0814/191719.610:INFO:crashpad_lib_loader.cc(112)] AddSimpleAnnotation platform_version:11 26100
