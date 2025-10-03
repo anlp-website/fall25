@@ -16,7 +16,7 @@ sleep 5
 git pull
 git add --all
 git commit -a -m "Publishing site build - $(date)"
-git push -u origin main --force
+git push -u origin main
 
 echo "\nRe-opening Dropbox..."
 # Call PowerShell to restart Dropbox hidden
